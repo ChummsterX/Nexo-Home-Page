@@ -1,0 +1,11 @@
+@import '@sweetalert2/theme-dark/dark.css';
+@import 'magicpattern';
+@import 'scrollbar';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: red;
+}
